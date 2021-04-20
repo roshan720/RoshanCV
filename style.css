@@ -1,0 +1,44 @@
+body{
+    background-color:#edffec;
+}
+h1{
+    font-style:italic;
+    color:#557174;
+    font-size: 32px;
+}
+
+.name:hover{
+    color:#f05945;
+}    
+h3{
+
+    font-style: italic;
+    color:#557174;
+
+}
+h4{
+    font-style: italic;
+    color:#557174;
+}
+p{
+    font-style:oblique;
+    color:#1e212d;
+    font-size: 18px;
+}
+hr{
+    background-color: rgb(241, 243, 234);
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #8ab6d6;
+    width:8%;
+    border-width: 5px;
+    
+}
+
+
+.pic{
+background-color:#01e981;
+        height: 320px;
+        width: 300px;
+          border-radius: 100%;
+}
